@@ -26,3 +26,14 @@ h1{
     font-weight: 700;
     border-radius: 5px; 
 }
+.Experince-item{
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 40px;
+}
+#Experince-item{
+border-left: 4px solid;
+}
